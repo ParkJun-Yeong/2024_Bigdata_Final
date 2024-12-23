@@ -5,3 +5,4 @@
 # Environment
 - conda 가상환경 사용
 - library: requirement.txt 참고
+- 실행파일: test.py --lora_ckpt "{checkpoint path}"
