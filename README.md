@@ -2,6 +2,6 @@
 빅데이터기반분산-딥러닝혁신프로젝트 1분반 과제 프로젝트 최종 결과물 제출</br>
 단국대학교 인공지능융합학과 72220216 박준영
 
-# 가상환경
-
-- readme.md 에서는 모델을 돌리기 위해서 필요한 가상환경(conda, venv, pyenv, docker 등)을 만들고 설치하는 내용, 어떤 파일을 실행해야하는지에 대한 내용 포함
+# Environment
+- conda 가상환경 사용
+- library: requirement.txt 참고
